@@ -8,7 +8,7 @@
 This Website is Designed for Army Public School (Ambala Cantt).
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Army Public School Website ScreenShot](https://user-images.githubusercontent.com/64775669/128635025-53f8ce19-b7a9-4986-a5f4-9d0d88cb50e1.png)
 
   
 ## Run Locally
