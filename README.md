@@ -33,61 +33,6 @@ Start the server
 ```
 
   
-## Project Structure
-
-.
-├── C:.
-└── └───Army Public School Website (NEW)/
-    ├── ├───Documentation
-    ├── │   ├───css
-    ├── │   ├───fonts
-    ├── │   ├───images
-    ├── │   └───js
-    ├── ├───HTML
-    ├── │   ├───assets
-    ├── │   │   ├───css
-    ├── │   │   ├───icons
-    ├── │   │   │   ├───css
-    ├── │   │   │   └───font
-    ├── │   │   ├───img
-    ├── │   │   ├───js
-    ├── │   │   │   └───skins
-    ├── │   │   │       └───default
-    ├── │   │   ├───skins
-    ├── │   │   │   └───default
-    ├── │   │   └───webfonts
-    ├── │   └───src
-    ├── │       ├───img
-    ├── │       ├───js
-    ├── │       └───scss
-    ├── │           └───sections
-    └── └───__MACOSX/
-        ├── ├───Documentation
-        ├── │   ├───css
-        ├── │   ├───fonts
-        ├── │   ├───images
-        ├── │   └───js
-        └── └───HTML/
-            ├── ├───assets
-            ├── │   ├───css
-            ├── │   ├───icons
-            ├── │   │   ├───css
-            ├── │   │   └───font
-            ├── │   ├───img
-            ├── │   ├───js
-            ├── │   │   └───skins
-            ├── │   │       └───default
-            ├── │   ├───skins
-            ├── │   │   └───default
-            ├── │   └───webfonts
-            └── └───src/
-                ├── ├───img
-                ├── ├───js
-                └── └───scss/
-                    └── └───sections
-
-
-  
 ## Tech Stack
 
 **Client:** HTML, CSS, Bootstrap, and JavaScript.
