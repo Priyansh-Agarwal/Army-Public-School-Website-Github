@@ -56,3 +56,8 @@ This project is used by Army Public School Ambala Cantt.
 If you have any feedback, please reach out to us at theagarwalpriyansh@gmail.com
 
   
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+  
